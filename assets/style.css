@@ -1,0 +1,40 @@
+/* * {
+  outline: 1px solid red;
+}
+*/
+
+h2  {
+  color: rgb(86, 86, 244);
+}
+address {
+  background-color: darkblue;
+  color: white;
+}
+address ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+address li {
+  padding: 10px 20px;
+}
+section>header {
+  color: darkblue;
+}
+#skills ul {
+  column-count: 3;
+  list-style: none;
+}
+#skills li {
+  padding: 5px 0px;
+}
+.job {
+  background-color: rgba(149, 154, 162, 0.283);
+  color: white;
+  text-shadow: 1px 1px black;
+}
+main {
+  background-image: url(https://images.unsplash.com/photo-1556624651-70ad2f7e8364?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80);
+  background-position: center;
+  background-size: cover;
+}
